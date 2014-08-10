@@ -12,7 +12,7 @@
 #
 
 
-[fadeinbgm  time="3000"  storage="theme_v0.1.mp3"  loop="true"  ]
+[fadeinbgm  time="3000"  storage="theme.mp3"  loop="true"  ]
 [back  time="3000"  method="crossfade"  storage="01_jo_02.png"  ]
 誰かの話し声が聞こえ、ふっ、と目が覚めた。[p]
 
