@@ -3,7 +3,6 @@
 *start
 
 [cm  ]
-[jump  storage="04_ha.ks"  target=""  ]
 [back  time="3000"  method="crossfade"  storage="01_jo_01.png"  ]
 [tb_show_message_window  ]
 #声１
@@ -147,3 +146,4 @@
 僕は慌てて自室に戻り、制服に着替え始めた。[p]
 
 
+[jump  storage="02_ki.ks"  target=""  ]
