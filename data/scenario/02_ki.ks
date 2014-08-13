@@ -40,7 +40,7 @@
 #
 
 
-[back  time="3000"  method="crossfade"  storage="02_ki_05.jpeg"  ]
+[back  time="3000"  method="crossfade"  storage="02_ki_05.jpg"  ]
 #
 担任が入ってきた。[p]
 僕らは慌てて席に着く。[p]

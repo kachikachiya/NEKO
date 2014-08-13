@@ -1,6 +1,6 @@
 [return][return][return][preload  storage="./data/bgimage/02_ki_02.jpg"  ]
 [return][return][return][return][preload  storage="./data/bgimage/02_ki_03.jpg"  ]
-[return][return][preload  storage="./data/bgimage/02_ki_05.jpeg"  ]
+[return][return][preload  storage="./data/bgimage/02_ki_05.jpg"  ]
 [return][return][return][return][return][return][preload  storage="./data/bgimage/02_ki_04.jpg"  ]
 [return][return][return][return][return][return][return][return][preload  storage="./data/bgimage/01_jo_03.jpg"  ]
 [return][return][return][preload  storage="./data/bgimage/02_ki_06.jpg"  ]
