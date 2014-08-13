@@ -1,0 +1,6 @@
+[return][return][return][preload  storage="./data/bgimage/02_ki_02.jpg"  ]
+[return][return][return][return][preload  storage="./data/bgimage/kyousitu.jpg"  ]
+[return][return][preload  storage="./data/bgimage/zaseki.jpeg"  ]
+[return][return][return][return][preload  storage="./data/bgimage/kokuban.jpg"  ]
+[return][return][return][return][return][return][return][preload  storage="./data/bgimage/01_jo_03.png"  ]
+[return][return][return]
