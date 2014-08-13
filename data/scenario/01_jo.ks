@@ -3,6 +3,7 @@
 *start
 
 [cm  ]
+[jump  storage="04_ha.ks"  target=""  ]
 [back  time="3000"  method="crossfade"  storage="01_jo_01.png"  ]
 [tb_show_message_window  ]
 #声１
@@ -13,7 +14,7 @@
 
 
 [fadeinbgm  time="3000"  storage="theme.mp3"  loop="true"  ]
-[back  time="3000"  method="crossfade"  storage="01_jo_02.png"  ]
+[back  time="3000"  method="crossfade"  storage="01_jo_02.jpg"  ]
 誰かの話し声が聞こえ、ふっ、と目が覚めた。[p]
 
 

@@ -155,7 +155,7 @@ XXXー（主人公）[p]
 *ep --home--
 
 [cm  ]
-[back  time="3000"  method="crossfade"  storage="01_jo_03.png"  ]
+[back  time="3000"  method="crossfade"  storage="01_jo_03.jpg"  ]
 [tb_show_message_window  ]
 #主人公
 うりゃあっ！[p]

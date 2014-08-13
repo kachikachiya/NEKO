@@ -1,0 +1,5 @@
+[return][preload  storage="./data/bgimage/04_ha_01.png"  ]
+[return][return][return][preload  storage="./data/fgimage/chara/2/308464_320626607964208_1904847178_n.png"  ]
+[return][return][return][return][return][return][return][return][preload  storage="./data/bgimage/01_jo_01.png"  ]
+[return][return][preload  storage="./data/bgimage/01_jo_03.png"  ]
+[return][return]

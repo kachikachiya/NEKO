@@ -1,7 +1,7 @@
 [_tb_system_call storage=system/_title.ks]
 
 [tb_hide_message_window  ]
-[back  storage="00_title_01.png"  ]
+[back  storage="00_title_01.jpg"  ]
 *title
 
 [glink  color="black"  storage="title.ks"  size="20"  text="はじめから"  x="550"  y="470"  target="*start"  ]
