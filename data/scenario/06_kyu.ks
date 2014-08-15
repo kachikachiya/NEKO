@@ -2,6 +2,7 @@
 
 *start
 
+[cm  ]
 [back  time="3000"  method="crossfade"  storage="04_ha_01.jpg"  ]
 [tb_show_message_window  ]
 [fadeinbgm  time="3000"  storage="heatup.mp3"  loop="true"  ]
@@ -41,7 +42,9 @@
 
 
 [stopbgm  ]
+[cm  ]
 [back  time="3000"  method="crossfade"  storage="01_jo_01.png"  ]
+[cm  ]
 [back  time="3000"  method="crossfade"  storage="02_ki_06.jpg"  ]
 # 叔父
 うーむ、これは結構な重症だぞ。[p]
@@ -78,7 +81,7 @@
 #
 少し残念そうな顔。[p]
 # 叔父
-まぁこれは人工血液を慎重に使えば何とかなるだろう。お前の手術用に大量に作ってあるからな。[p]
+まぁ、これは人工血液を慎重に使えば何とかなるだろう。お前の手術用に大量に作ってあるからな。[p]
 #
 出来れば今回で全て使い切ってしまって欲しいところだ。[p]
 # 叔父
@@ -188,6 +191,7 @@
 
 
 [tb_hide_message_window  ]
+[cm  ]
 [back  time="3000"  method="crossfade"  storage="00_title_02.png"  ]
 [wait  time="3000"  ]
 [jump  storage="07_ketsu.ks"  target=""  ]

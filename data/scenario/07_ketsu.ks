@@ -2,12 +2,13 @@
 
 *start
 
+[cm  ]
 [back  time="3000"  method="crossfade"  storage="01_jo_02.jpg"  ]
 [tb_show_message_window  ]
 #
 ほほにくすぐったさを感じて、僕は目を覚ました。[p]
 見慣れた部屋の天井。[p]
-横を見ると、そこには[p]
+横を見ると、そこには・・・[p]
 
 
 [chara_mod  name="エリザベス"  storage="chara/2/262737_580304908663042_605468481_n.png"  ]
@@ -15,9 +16,9 @@
 ミミ・・・[p]
 いったいどうやったのか、包帯も何もなく、元気に僕のほほを舐めるミミの姿が。[p]
 よかった・・・治ったんだ・・・。[p]
-ミミは、僕が目覚めた事に安心したような顔をして、そして、[p]
+ミミは、僕が目覚めた事に安心したような顔をして、そして・・・[p]
 # ミミ
-にゃあ[p]
+にゃあ。[p]
 #
 と鳴いた。[p]
 聞き馴れたあの声よりも少し高い、ネコらしい鳴き声。[p]
@@ -27,7 +28,7 @@
 本当に、そうなってしまったんだ・・・。[p]
 ミミが助かった嬉しさと、しかしもう声を聞けないという悲しみとで複雑な心境の中。[p]
 # ミミ
-にゃあにゃあ[p]
+にゃあにゃあ。[p]
 #
 ミミが何かを訴えるように僕の右の二の腕あたりに体をこすってくる。[p]
 なんだろう？[p]
@@ -94,6 +95,7 @@
 
 
 [chara_hide  name="エリザベス"  ]
+[cm  ]
 [back  time="3000"  method="crossfade"  storage="01_jo_01.png"  ]
 [back  time="3000"  method="crossfade"  storage="02_ki_06.jpg"  ]
 #
@@ -199,6 +201,7 @@
 *ending
 
 [tb_show_message_window  ]
+[cm  ]
 [back  time="3000"  method="crossfade"  storage="01_jo_02.jpg"  ]
 #
 部屋に戻ると、ミミは窓辺に座っていた。[p]
@@ -244,6 +247,7 @@
 もちろん、僕もだよ。[p]
 
 
+[cm  ]
 [chara_hide  name="エリザベス"  ]
 [tb_hide_message_window  ]
 [fadeinbgm  time="3000"  storage="ending.mp3"  loop="false"  ]
