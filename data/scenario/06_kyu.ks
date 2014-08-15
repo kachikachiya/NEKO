@@ -186,4 +186,5 @@ CCCを見て改めて覚悟を決めて、隣のベッドに寝る。[p]
 そして僕は深い眠りについた・・・[p]
 
 
+[tb_hide_message_window  ]
 [back  time="3000"  method="crossfade"  storage="00_title_02.png"  ]
