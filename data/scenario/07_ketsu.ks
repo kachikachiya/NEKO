@@ -8,6 +8,10 @@
 ほほにくすぐったさを感じて、僕は目を覚ました。[p]
 見慣れた部屋の天井。[p]
 横を見ると、そこには[p]
+
+
+[chara_mod  name="エリザベス"  storage="chara/2/262737_580304908663042_605468481_n.png"  ]
+[chara_show  name="エリザベス"  ]
 CC・・・[p]
 いったいどうやったのか、包帯も何もなく、元気に僕のほほを舐めるCCCの姿が。[p]
 よかった・・・治ったんだ・・・。[p]
@@ -89,6 +93,7 @@ CCCは少しそっぽを向いて答えた。[p]
 ・・・進級、できるのかな。[p]
 
 
+[chara_hide  name="エリザベス"  ]
 [back  time="3000"  method="crossfade"  storage="01_jo_01.png"  ]
 [back  time="3000"  method="crossfade"  storage="02_ki_06.jpg"  ]
 #
@@ -191,11 +196,18 @@ CCCは少しそっぽを向いて答えた。[p]
 
 
 [stopbgm  ]
+*ending
+
+[tb_show_message_window  ]
 [back  time="3000"  method="crossfade"  storage="01_jo_02.jpg"  ]
 #
 部屋に戻ると、CCCは窓辺に座っていた。[p]
 手術の後はずっとうちの中にいたらしく、もし外に出たくなったときのために、と思って開けておいたのだがその必要はなかったらしい。[p]
 僕の気配に気付いたCCCがこちらを振り向いた。[p]
+
+
+[chara_mod  name="エリザベス"  storage="chara/2/262737_580304908663042_605468481_n.png"  ]
+[chara_show  name="エリザベス"  ]
 #CCC
 あら。おかえり。[p]
 #
@@ -232,30 +244,30 @@ CCCが言う。[p]
 もちろん、僕もだよ。[p]
 
 
-*ending
-
+[chara_hide  name="エリザベス"  ]
+[tb_hide_message_window  ]
 [fadeinbgm  time="3000"  storage="ending.mp3"  loop="false"  ]
 [back  time="2000"  method="crossfade"  storage="08_end_00.png"  ]
 [back  time="3000"  method="crossfade"  storage="08_end_01.png"  ]
-[wait time=7000]
+[wait  time="7000"  ]
 [back  time="2000"  method="crossfade"  storage="08_end_00.png"  ]
 [back  time="3000"  method="crossfade"  storage="08_end_02.png"  ]
-[wait time=7000]
+[wait  time="7000"  ]
 [back  time="2000"  method="crossfade"  storage="08_end_00.png"  ]
 [back  time="3000"  method="crossfade"  storage="08_end_03.png"  ]
-[wait time=7000]
+[wait  time="7000"  ]
 [back  time="2000"  method="crossfade"  storage="08_end_00.png"  ]
 [back  time="3000"  method="crossfade"  storage="08_end_04.png"  ]
-[wait time=7000]
+[wait  time="7000"  ]
 [back  time="2000"  method="crossfade"  storage="08_end_00.png"  ]
 [back  time="3000"  method="crossfade"  storage="08_end_05.png"  ]
-[wait time=7000]
+[wait  time="7000"  ]
 [back  time="2000"  method="crossfade"  storage="08_end_00.png"  ]
 [back  time="3000"  method="crossfade"  storage="08_end_06.png"  ]
-[wait time=7000]
+[wait  time="7000"  ]
 [back  time="2000"  method="crossfade"  storage="08_end_00.png"  ]
 [back  time="3000"  method="crossfade"  storage="08_end_07.png"  ]
-[wait time=7000]
+[wait  time="7000"  ]
 [back  time="2000"  method="crossfade"  storage="08_end_00.png"  ]
 [back  time="2000"  method="crossfade"  storage="08_end_00.png"  ]
 [back  time="3000"  method="crossfade"  storage="08_end_08.png"  ]
