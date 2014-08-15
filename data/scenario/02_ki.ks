@@ -7,6 +7,7 @@
 [cm  ]
 [back  time="3000"  method="crossfade"  storage="02_ki_02.jpg"  ]
 [tb_show_message_window  ]
+[playse  storage="school_chime.mp3"  ]
 #
 キーンコーンカーンコーン・・・[p]
 階段を駆け上がり教室のあるフロアに着いた時には、始業のチャイムが鳴り始めてしまっていた。[p]
@@ -22,7 +23,7 @@
 [back  time="3000"  method="crossfade"  storage="02_ki_03.jpg"  ]
 #
 はぁっ、はぁっ、はぁっ。[p]
-#クラスメイトの男子
+#クラスメイト
 おっ、沖須！[p]
 #
 クラスメイトが声をかけて来る。[p]
