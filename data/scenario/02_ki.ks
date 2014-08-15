@@ -91,6 +91,7 @@ XXXー[p]
 お、どうしたXXX。休みすぎて今日が金曜だって忘れてたか？[p]
 
 
+[stopbgm  ]
 [playbgm  loop="true"  storage="heatup.mp3"  ]
 #XXX
 休み過ぎ・・・？[p]

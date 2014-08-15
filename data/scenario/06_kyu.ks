@@ -188,4 +188,5 @@ CCCを見て改めて覚悟を決めて、隣のベッドに寝る。[p]
 
 [tb_hide_message_window  ]
 [back  time="3000"  method="crossfade"  storage="00_title_02.png"  ]
+[wait  time="3000"  ]
 [jump  storage="07_ketsu.ks"  target=""  ]

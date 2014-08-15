@@ -12,6 +12,7 @@
 #
 
 
+[stopbgm  ]
 [fadeinbgm  time="3000"  storage="theme.mp3"  loop="true"  ]
 [back  time="3000"  method="crossfade"  storage="01_jo_02.jpg"  ]
 誰かの話し声が聞こえ、ふっ、と目が覚めた。[p]
@@ -146,4 +147,5 @@
 僕は慌てて自室に戻り、制服に着替え始めた。[p]
 
 
-[jump  storage="02_ki.ks"  target="*02_ki_start"  ]
+[stopbgm  ]
+[jump  storage="02_ki.ks"  target="*02_ki_start"  ]
