@@ -146,4 +146,4 @@
 僕は慌てて自室に戻り、制服に着替え始めた。[p]
 
 
-[jump  storage="02_ki.ks"  target=""  ]
+[jump  storage="02_ki.ks"  target="*02_ki_start"  ]
