@@ -211,7 +211,7 @@
 #叔父
 えー？[p]
 
-
+#
 [cm  ]
 [back  time="3000"  method="crossfade"  storage="02_ki_06.jpg"  ]
 #僕

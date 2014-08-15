@@ -60,7 +60,7 @@
 え？じゃあまだ良くなってないの？[p]
 #僕
 ？[p]
-
+#
 [cm  ]
 [back  time="3000"  method="crossfade"  storage="02_ki_03.jpg"  ]
 #先生

@@ -266,7 +266,7 @@
 #僕
 もちろん、僕もだよ。[p]
 
-
+#
 [cm  ]
 [chara_hide  name="エリザベス"  ]
 [tb_hide_message_window  ]
